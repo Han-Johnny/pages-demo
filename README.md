@@ -1,6 +1,6 @@
 "#pages-demo" 
 
-git init
+git init <>
 #Initialized empty Git repository in D:/GitHub/pages-demo/.git/
 
 git add README.md		
