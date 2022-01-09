@@ -1,7 +1,7 @@
 # pages-demo
 
-- git init
--- Initialized empty Git repository in D:/GitHub/pages-demo/.git/
+- git init <br />
+Initialized empty Git repository in D:/GitHub/pages-demo/.git/
 
 - git add README.md		
 -- add README.md in .git
