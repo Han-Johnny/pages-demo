@@ -13,10 +13,10 @@ add README.md in .git
 建立git分支，-M(Shortcut for --move --force)，重製分支名稱及起點 (main)
 
 - git remote add origin https://github.com/Han-Johnny/pages-demo.git <br />
-將專案(origin)上傳至github
+將專案(origin)連接至github
 
 - git push -u origin main <br />
-將分支 main 上傳至 origin
+將origin中的 main 分支上傳至 github
 
 > 可以從"C:\Program Files\Git\mingw64\share\doc\git-doc"裡面找到更多有關git參數的說明 <br />
 > https://han-johnny.github.io/pages-demo/
