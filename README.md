@@ -18,5 +18,15 @@ add README.md in .git
 - git push -u origin main <br />
 將origin中的 main 分支上傳至 github
 
+- git pull origin <br />
+將遠端origin中儲存的東西拉下來
+
+- git add <filename> <br />
+把指定的檔案加入git中，或是使用 * 號全部加入
+
+- git commit -m "commit message" <br />
+將引號內的訊息提交，用做此次加入檔案的備註
+
+
 > 可以從"C:\Program Files\Git\mingw64\share\doc\git-doc"裡面找到更多有關git參數的說明 <br />
 > https://han-johnny.github.io/pages-demo/
