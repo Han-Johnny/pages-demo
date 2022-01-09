@@ -19,3 +19,4 @@ add README.md in .git
 將分支 main 上傳至 origin
 
 > 可以從"C:\Program Files\Git\mingw64\share\doc\git-doc"裡面找到更多有關git參數的說明
+> https://han-johnny.github.io/pages-demo/
