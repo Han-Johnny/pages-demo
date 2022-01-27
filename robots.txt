@@ -1,0 +1,11 @@
+#宣告所有爬蟲存取images, css, js, backup資料夾, pdf, xlsx, docx, pptx檔案類型
+
+user-agent: *
+disallow:/images
+disallow:/css
+disallow:/js
+disallow:/backup
+disallow:/*.pdf$
+disallow:/*.xlsx$
+disallow:/*.docx$
+disallow:/*.pptx$
